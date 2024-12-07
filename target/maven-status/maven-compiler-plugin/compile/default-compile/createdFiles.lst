@@ -1,0 +1,7 @@
+com/tdevs/dockermastery/DockermasteryApplication.class
+com/tdevs/dockermastery/dto/TodoDTO.class
+com/tdevs/dockermastery/repositories/TodoRepository.class
+com/tdevs/dockermastery/controllers/RootController.class
+com/tdevs/dockermastery/entities/Todo.class
+com/tdevs/dockermastery/mappers/TodoMapper.class
+com/tdevs/dockermastery/dto/TodoResponse.class

@@ -1,0 +1,7 @@
+/Users/iswitch/Downloads/tdev_dockerworkshop/exercise1/docker-mastery/src/main/java/com/tdevs/dockermastery/DockermasteryApplication.java
+/Users/iswitch/Downloads/tdev_dockerworkshop/exercise1/docker-mastery/src/main/java/com/tdevs/dockermastery/controllers/RootController.java
+/Users/iswitch/Downloads/tdev_dockerworkshop/exercise1/docker-mastery/src/main/java/com/tdevs/dockermastery/dto/TodoDTO.java
+/Users/iswitch/Downloads/tdev_dockerworkshop/exercise1/docker-mastery/src/main/java/com/tdevs/dockermastery/dto/TodoResponse.java
+/Users/iswitch/Downloads/tdev_dockerworkshop/exercise1/docker-mastery/src/main/java/com/tdevs/dockermastery/entities/Todo.java
+/Users/iswitch/Downloads/tdev_dockerworkshop/exercise1/docker-mastery/src/main/java/com/tdevs/dockermastery/mappers/TodoMapper.java
+/Users/iswitch/Downloads/tdev_dockerworkshop/exercise1/docker-mastery/src/main/java/com/tdevs/dockermastery/repositories/TodoRepository.java
